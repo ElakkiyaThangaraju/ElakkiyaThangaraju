@@ -1,4 +1,4 @@
-- 👋 Hi,ElakkiyaThangaraju
+  ElakkiyaThangaraju
 - Final year of CSE 
 - VCEW
 
