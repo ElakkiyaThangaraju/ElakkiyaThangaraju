@@ -1,9 +1,9 @@
 - 👋 Hi,ElakkiyaThangaraju
 - Final year of CSE 
-- 💞️ I’m looking to llaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- VCEW
+- 
+- 
+- 
 
 <!---
 ElakkiyaThangaraju/ElakkiyaThangaraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
